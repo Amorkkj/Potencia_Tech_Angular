@@ -1,0 +1,3 @@
+1 - Crie uma classe para representar carros.
+Os carros possuem uma marca, uma cor e um gasto medio de combustivel por KM rodado.
+Crie um metodo que dado a quantidade de KM e o preço do combustivel nos de o valor gasto em reais para realizar este percuso.
